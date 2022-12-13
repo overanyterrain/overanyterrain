@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @overanyterrain
-- 👀 I’m interested in ... HTML and web development. I would like to build my own website and start on game development as well. 
-- 🌱 I’m currently learning ... Python 2 and HTML
+- 👀 I’m interested in ... Website Building. I would also like to work on C++ as well when I get the chance. 
+- 🌱 I’m currently learning ... Python 2, HTML, CSS, and Javascript.
 - 💞️ I’m looking to collaborate on ... Nothing at the moment
 - 📫 How to reach me ... overanyterrain@gmail.com
 
